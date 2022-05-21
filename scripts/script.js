@@ -24,6 +24,14 @@ new Vue({
           source: "https://necrozma.vercel.app/mp3/2.mp3",
           url: "https://www.youtube.com/watch?v=28A4yF6gqWU",
           favorited: false
+        },
+        {
+          name: "Wobble",
+          artist: "Crankdat & Tisoki",
+          cover: "https://i1.sndcdn.com/artworks-000589068161-4azrne-t500x500.jpg",
+          source: "https://necrozma.vercel.app/mp3/3.mp3",
+          url: "https://www.youtube.com/watch?v=TBiJ-RAmCB4",
+          favorited: false
         }
       ],
       currentTrack: null,
