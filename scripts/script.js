@@ -18,11 +18,11 @@ new Vue({
           favorited: false
         },
         {
-          name: "Rag'n'Bone Man",
-          artist: "Human",
-          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/9.jpg",
-          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/9.mp3",
-          url: "https://www.youtube.com/watch?v=L3wKzyIN1yk",
+          name: "Consumer Friendly",
+          artist: "JellyBear",
+          cover: "https://i.scdn.co/image/ab67616d0000b2735c977e008a0b795227927877",
+          source: "https://necrozma.vercel.app/mp3/2.mp3",
+          url: "https://www.youtube.com/watch?v=28A4yF6gqWU",
           favorited: false
         }
       ],
