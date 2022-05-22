@@ -32,6 +32,38 @@ new Vue({
           source: "https://necrozma.vercel.app/mp3/3.mp3",
           url: "https://www.youtube.com/watch?v=TBiJ-RAmCB4",
           favorited: false
+        },
+        {
+          name: "Mind Control",
+          artist: "Computa",
+          cover: "https://i1.sndcdn.com/artworks-000603236191-puxodi-t500x500.jpg",
+          source: "https://necrozma.vercel.app/mp3/4.mp3",
+          url: "https://open.spotify.com/track/34ilCZXFuUBaarNaYBXj5y?autoplay=true",
+          favorited: false
+        },
+        {
+          name: "Cocktail Queen",
+          artist: "Mellefresh, deadmau5",
+          cover: "https://i.scdn.co/image/5a3e91a4c68c7d587937470e789fa20ee2382977",
+          source: "https://necrozma.vercel.app/mp3/5.mp3",
+          url: "https://www.youtube.com/watch?v=pm3wht6JVrs",
+          favorited: false
+        },
+        {
+          name: "Helikopter",
+          artist: "Blackstripe",
+          cover: "https://i.scdn.co/image/ab67616d0000b273da7f4f583a7db4994195a61e",
+          source: "https://necrozma.vercel.app/mp3/6.mp3",
+          url: "https://www.youtube.com/watch?v=xfqrWaquaTg",
+          favorited: false
+        },
+        {
+          name: "CHAOS",
+          artist: "MUST DIE!",
+          cover: "https://i1.sndcdn.com/artworks-000532880637-69qqtd-t500x500.jpg",
+          source: "https://necrozma.vercel.app/mp3/7.mp3",
+          url: "https://www.youtube.com/watch?v=LplkeM206Xs",
+          favorited: false
         }
       ],
       currentTrack: null,
